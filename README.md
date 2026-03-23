@@ -30,8 +30,9 @@ streamlit run app.py
 * Solve y'' + y = 0
 * Find eigenvalues of [[2,1],[1,2]]
 
-<image-card alt="Demo 1" src="demo1.PNG" ></image-card>
-<image-card alt="Demo 2" src="demo2.PNG" ></image-card>
+![Demo 1](demo1.PNG)
+
+![Demo 2](demo2.PNG)
 
 ### Client Use Cases
 Education platforms, research labs, engineering firms — instant reliable math automation without hiring tutors or writing code.
