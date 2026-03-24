@@ -4,9 +4,9 @@
 
 LangGraph + Groq + SymPy system that solves natural-language university math problems (calculus, linear algebra, ODEs, optimization, basic proofs) with verified step-by-step solutions, self-critique loops, LaTeX export, and plots.
 
-**Built by [Your Name] — Junior Mathematics Undergraduate at Saint Louis University (planning Masters in Math)**
+**Built by Will Thelen — Junior Mathematics Undergraduate at Saint Louis University (planning Masters in Math)**
 
-Demonstrates advanced prompt engineering, multi-agent systems, and symbolic computation — exactly the skills clients pay for in AI automation and math tooling contracts.
+Demonstrates advanced prompt engineering, multi-agent systems, and symbolic computation.
 
 ### Features
 - Multi-agent workflow: Planner → SymPy Solver → SciPy Verifier → Critic (self-refine) → Explainer
