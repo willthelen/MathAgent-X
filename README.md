@@ -37,3 +37,5 @@ streamlit run app.py
 ### Client Use Cases
 Education platforms, research labs, engineering firms — instant reliable math automation without hiring tutors or writing code.
 Built as portfolio piece for Python + Prompt Engineering contracts.
+
+Companion project: [OptiLLM](https://github.com/willthelen/OptiLLM) — natural language business optimization solver.
